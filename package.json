@@ -19,5 +19,16 @@
     "jQuery": "^1.7.4",
     "moment": "^2.30.1",
     "react": "^18.2.0"
-  }
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "tap-spec": "^2.2.2",
+    "tape": "^4.13.3"
+  },
+   "bugs": {
+    "url": "https://github.com/LiWeiQin/qinda-tools/issues"
+  },
 }
