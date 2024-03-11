@@ -1,6 +1,6 @@
 {
   "name": "qinda-tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Collection of commonly used tools",
   "repository": {
     "type": "git",
@@ -18,9 +18,11 @@
     "express": "^4.18.3",
     "jQuery": "^1.7.4",
     "moment": "^2.30.1",
-    "react": "^18.2.0"
+    "nestjs": "0.0.1",
+    "react": "^18.2.0",
+    "sapper": "^0.29.3"
   },
- "devDependencies": {
+  "devDependencies": {
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
     "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
@@ -28,7 +30,7 @@
     "tap-spec": "^2.2.2",
     "tape": "^4.13.3"
   },
-   "bugs": {
+  "bugs": {
     "url": "https://github.com/LiWeiQin/qinda-tools/issues"
   }
 }
