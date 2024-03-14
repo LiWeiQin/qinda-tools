@@ -1,10 +1,10 @@
 {
   "name": "qinda-tools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Collection of commonly used tools",
   "repository": {
     "type": "git",
-    "url": "git@github.com:LiWeiQin/qinda-tools.git"
+    "url": "https://github.com/LiWeiQin/qinda-tools.git"
   },
   "main": "index.js",
   "scripts": {
